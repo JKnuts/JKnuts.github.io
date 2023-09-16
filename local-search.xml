@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  
+  
+  
+  <entry>
+    <title>Hello world</title>
+    <link href="/2023/09/15/hello-world/"/>
+    <url>/2023/09/15/hello-world/</url>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo new <span class="hljs-string">&quot;My New Post&quot;</span><br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo server<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo generate<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo deploy<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    
+    
+    <categories>
+      
+      <category>Diary</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>PS3</tag>
+      
+      <tag>Games</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>What skills should a Data Analyst have in 2023?</title>
+    <link href="/2023/01/10/What-Skills-Should-a-Data-Analyst-Have-in-2023/"/>
+    <url>/2023/01/10/What-Skills-Should-a-Data-Analyst-Have-in-2023/</url>
+    
+    <content type="html"><![CDATA[<p>Notion AI generated this article for me in just 5 seconds after I typed in the title.</p><span id="more"></span><hr><p>Data analysts are an essential part of any organization’s operations, and their roles are becoming increasingly important and far-reaching as technology advances. With the ever-changing landscape of data analytics, it’s important to stay up to date on the skills necessary to remain a successful data analyst. Here are some of the skills you should have as a data analyst in 2023:</p><h2 id="Advanced-Data-Analysis"><a href="#Advanced-Data-Analysis" class="headerlink" title="Advanced Data Analysis"></a>Advanced Data Analysis</h2><p>Data analysts must be able to analyze complex data sets to identify trends and make predictions. This requires a deep understanding of the tools and techniques used in data analysis, such as statistical analysis, machine learning, and artificial intelligence.</p><h2 id="Big-Data-Management"><a href="#Big-Data-Management" class="headerlink" title="Big Data Management"></a>Big Data Management</h2><p>Big data is becoming a bigger part of data analytics, and data analysts must be able to manage and analyze large datasets. This requires a deep understanding of the tools and techniques used for big data management, such as Hadoop, MapReduce, and Apache Spark.</p><h2 id="Programming"><a href="#Programming" class="headerlink" title="Programming"></a>Programming</h2><p>Data analysts must be able to program in order to create models and algorithms for data analysis. Common programming languages used for data analysis include Python, R, and Java.</p><h2 id="Visualization"><a href="#Visualization" class="headerlink" title="Visualization"></a>Visualization</h2><p>Data analysts must be able to visualize their data in order to communicate their findings effectively. This requires knowledge of software such as Tableau, Power BI, and D3.js.</p><h2 id="Communication"><a href="#Communication" class="headerlink" title="Communication"></a>Communication</h2><p>Data analysts must be able to communicate their findings to stakeholders in a clear and concise manner. This requires strong written and verbal communication skills.</p><h2 id="Business-Acumen"><a href="#Business-Acumen" class="headerlink" title="Business Acumen"></a>Business Acumen</h2><p>Data analysts must be able to understand the business context of their data and be able to identify opportunities for improvement. This requires a deep understanding of the industry and an ability to think strategically.</p><p>Data analytics is an ever-evolving field, and the skills necessary to remain a successful data analyst will continue to change as technology advances. However, these skills are essential for any data analyst in 2023 and beyond.</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>Article collection</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>Notion AI</tag>
+      
+      <tag>Data Analyst</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Bike store sales</title>
+    <link href="/2022/09/26/Bike-store-sales/"/>
+    <url>/2022/09/26/Bike-store-sales/</url>
+    
+    <content type="html"><![CDATA[<p>This is an article that records I use Excel for data cleaning and dashboard creation process.</p><span id="more"></span><hr><p>Dataset: <a href="https://www.kaggle.com/datasets/heeraldedhia/bike-buyers">Kaggle: Bike Buyers 1000</a></p><h2 id="1-Overview-and-Cleaning-data"><a href="#1-Overview-and-Cleaning-data" class="headerlink" title="1. Overview and Cleaning data"></a>1. Overview and Cleaning data</h2><p>In this case, we got 13 columns:</p><table><thead><tr><th align="left">ID</th><th align="left">Marital Status</th><th align="left">Gender</th><th align="left">Income</th><th align="left">Children</th><th align="left">Education</th><th align="left">Occupation</th><th align="left">Home Owner</th><th align="left">Cars</th><th align="left">Commute Distance</th><th align="left">Region</th><th align="left">Age</th><th align="left">Purchased Bike</th></tr></thead><tbody><tr><td align="left">29447</td><td align="left">S</td><td align="left">F</td><td align="left">$10,000.00</td><td align="left">2</td><td align="left">Bachelors</td><td align="left">Clerical</td><td align="left">No</td><td align="left">1</td><td align="left">2-5 Miles</td><td align="left">Europe</td><td align="left">68</td><td align="left">No</td></tr><tr><td align="left">29424</td><td align="left">M</td><td align="left">M</td><td align="left">$10,000.00</td><td align="left">0</td><td align="left">Partial High School</td><td align="left">Manual</td><td align="left">Yes</td><td align="left">2</td><td align="left">0-1 Miles</td><td align="left">Europe</td><td align="left">32</td><td align="left">No</td></tr><tr><td align="left">29380</td><td align="left">M</td><td align="left">F</td><td align="left">$20,000.00</td><td align="left">3</td><td align="left">High School</td><td align="left">Manual</td><td align="left">Yes</td><td align="left">0</td><td align="left">0-1 Miles</td><td align="left">Europe</td><td align="left">41</td><td align="left">Yes</td></tr><tr><td align="left">…</td><td align="left">…</td><td align="left">…</td><td align="left">…</td><td align="left">…</td><td align="left">…</td><td align="left">…</td><td align="left">…</td><td align="left">…</td><td align="left">…</td><td align="left">…</td><td align="left">…</td><td align="left">…</td></tr></tbody></table><p>The last column “Purchased Bike” is extremely important, this is going to tell us whether they did or did not buy a bike. I’m going to use it a lot in the next step.</p><p>Before cleaning data step, create 3 sheets:</p><ul><li><strong>Working sheet:</strong> a copy of original data. Modify data in this sheet in case I mess something up or any issue happens.</li><li><strong>Pivot table:</strong> </li><li><strong>Dashboard:</strong></li></ul><p>First of all, I would like to <strong>remove duplicates</strong> data, just want to see if there’s any useless duplicated data that I do not need.</p><p>What I did for the data cleaning process:</p><p>- </p><h2 id="2-Making-Pivot-Tables"><a href="#2-Making-Pivot-Tables" class="headerlink" title="2. Making Pivot Tables"></a>2. Making Pivot Tables</h2><h2 id="3-Creating-a-Dashboard"><a href="#3-Creating-a-Dashboard" class="headerlink" title="3. Creating a Dashboard"></a>3. Creating a Dashboard</h2><h2 id="4-Adding-Filter-Buttons"><a href="#4-Adding-Filter-Buttons" class="headerlink" title="4. Adding Filter Buttons"></a>4. Adding Filter Buttons</h2><hr><p>Project document: <a href="https://1drv.ms/x/s!AjORnw3fPDNscYeM0aY7O-492NA?e=d6EXS0">Bike sales analysis</a></p>]]></content>
+    
+    
+    <categories>
+      
+      <category>Excel projects</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>Dashboard</tag>
+      
+      <tag>Data cleaning</tag>
+      
+      <tag>Excel</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  
+</search>
